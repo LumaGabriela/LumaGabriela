@@ -1,7 +1,7 @@
 <section align= 'center '>
   <h1 > Olá, sou Luma Gabriela 🚀</h1>
 
-  ![Luma Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=LumaGabriela&show_icons=true&theme=midnight-purple)
+ 
   </br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaGabriela&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
 
